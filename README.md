@@ -1,1 +1,5 @@
-# learning-git
+# resume
+
+internship experiance
+
+amazon
